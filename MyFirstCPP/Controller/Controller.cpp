@@ -7,3 +7,15 @@
 //
 
 #include "Controller.hpp"
+
+using namespace std;
+
+Controller :: Controller()
+{
+    cout<< "look at me I'm Mr. Constructor!" << endl;
+}
+
+void Controller:: start()
+{
+    cout << "I'm Mr. start method Look at me!" << endl;
+}

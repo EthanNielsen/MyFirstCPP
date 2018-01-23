@@ -10,7 +10,7 @@
 
 using namespace std; // For this entire file it uses std, so havingthis in methods is not needed.
 
-int main()
+int oldMain()
 {
     // insert code here...
     cout << "Hello, World!" << endl; // endl is basically a "new line" instead of doing "/n"
